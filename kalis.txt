@@ -2,3 +2,4 @@ hi
 hello.
 for rebase.
 for pull.
+for fetch.
